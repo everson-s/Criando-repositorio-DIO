@@ -1,0 +1,16 @@
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\bin\Debug\net5.0\PrimeiroApp.exe
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\bin\Debug\net5.0\PrimeiroApp.deps.json
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\bin\Debug\net5.0\PrimeiroApp.runtimeconfig.json
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\bin\Debug\net5.0\PrimeiroApp.runtimeconfig.dev.json
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\bin\Debug\net5.0\PrimeiroApp.dll
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\bin\Debug\net5.0\ref\PrimeiroApp.dll
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\bin\Debug\net5.0\PrimeiroApp.pdb
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.csproj.AssemblyReference.cache
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.AssemblyInfoInputs.cache
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.AssemblyInfo.cs
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.csproj.CoreCompileInputs.cache
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.dll
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\obj\Debug\net5.0\ref\PrimeiroApp.dll
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.pdb
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.genruntimeconfig.cache
