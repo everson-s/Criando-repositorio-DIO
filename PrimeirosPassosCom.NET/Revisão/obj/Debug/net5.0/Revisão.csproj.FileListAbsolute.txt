@@ -1,0 +1,5 @@
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\obj\Debug\net5.0\Revisão.csproj.AssemblyReference.cache
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\obj\Debug\net5.0\Revisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\obj\Debug\net5.0\Revisão.AssemblyInfoInputs.cache
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\obj\Debug\net5.0\Revisão.AssemblyInfo.cs
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\obj\Debug\net5.0\Revisão.csproj.CoreCompileInputs.cache
