@@ -3,3 +3,14 @@ C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPasso
 C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\obj\Debug\net5.0\Revisão.AssemblyInfoInputs.cache
 C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\obj\Debug\net5.0\Revisão.AssemblyInfo.cs
 C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\obj\Debug\net5.0\Revisão.csproj.CoreCompileInputs.cache
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\bin\Debug\net5.0\Revisão.exe
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\bin\Debug\net5.0\Revisão.deps.json
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\bin\Debug\net5.0\Revisão.runtimeconfig.json
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\bin\Debug\net5.0\Revisão.runtimeconfig.dev.json
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\bin\Debug\net5.0\Revisão.dll
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\bin\Debug\net5.0\ref\Revisão.dll
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\bin\Debug\net5.0\Revisão.pdb
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\obj\Debug\net5.0\Revisão.dll
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\obj\Debug\net5.0\ref\Revisão.dll
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\obj\Debug\net5.0\Revisão.pdb
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\PrimeirosPassosCom.NET\Revisão\obj\Debug\net5.0\Revisão.genruntimeconfig.cache
