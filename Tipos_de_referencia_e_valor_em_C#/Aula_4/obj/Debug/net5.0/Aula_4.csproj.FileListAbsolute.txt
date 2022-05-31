@@ -1,0 +1,16 @@
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\bin\Debug\net5.0\Aula_4.exe
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\bin\Debug\net5.0\Aula_4.deps.json
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\bin\Debug\net5.0\Aula_4.runtimeconfig.json
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\bin\Debug\net5.0\Aula_4.runtimeconfig.dev.json
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\bin\Debug\net5.0\Aula_4.dll
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\bin\Debug\net5.0\ref\Aula_4.dll
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\bin\Debug\net5.0\Aula_4.pdb
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\obj\Debug\net5.0\Aula_4.csproj.AssemblyReference.cache
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\obj\Debug\net5.0\Aula_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\obj\Debug\net5.0\Aula_4.AssemblyInfoInputs.cache
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\obj\Debug\net5.0\Aula_4.AssemblyInfo.cs
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\obj\Debug\net5.0\Aula_4.csproj.CoreCompileInputs.cache
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\obj\Debug\net5.0\Aula_4.dll
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\obj\Debug\net5.0\ref\Aula_4.dll
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\obj\Debug\net5.0\Aula_4.pdb
+C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\obj\Debug\net5.0\Aula_4.genruntimeconfig.cache

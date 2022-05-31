@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Aula_4
+build_property.ProjectDir = C:\Users\mosai\OneDrive\Documentos\GitHub\Criando-repositorio-DIO\Tipos_de_referencia_e_valor_em_C#\Aula_4\
